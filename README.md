@@ -32,6 +32,11 @@
 <p align="left">I'm Salma Azoz, a Computer Science student from Egypt 🇪🇬<br><br>🔭 I’m currently working as a Machine Learning Intern at the National Telecommunication Institute (NTI)<br><br>🔧 I’m also training as a Full Stack .NET Developer at DEPI<br><br>📚 I'm learning Support Vector Machines (SVM), Logistic Regression, and building web applications using C#, ASP.NET, and SQL Server<br><br>⚡ In my free time, I enjoy building projects, exploring new tech, and diving into data science challenges</p>
 
 ###
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
@@ -67,11 +72,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
 
-###
 
-<h3 align="left">🛠 Language and tools</h3>
-
-###
 
 <h3 align="left">🔥   My Stats :</h3>
 
